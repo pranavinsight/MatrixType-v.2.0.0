@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+body{
+  background-image: url(data:image/jpeg;base64,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);
+}
+.side-nav{
+    width: 160px;
+    height: 100%;
+    background: #ffffff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top:0;
+    left:0;
+    padding: 20px 30px;
+    }
+    .navlinks{
+    list-style: none;
+    position: relative;
+    margin-left: -1rem
+    }
+     
+    .navlinks li{
+    padding: 1px 0;
+    margin-left: -1.5rem; 
+    }
+    .navlinks li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+    }
+    .navlinks li a p:hover{
+      color: rgba(98, 0, 255, 0.809)
+    }
+    .navlinks li a img{
+    filter: brightness(0) invert(0);
+    transition: 0.3s;
+    width: 22px;
+    margin-right: 10px
+    }
+    
+    .navlinks .Logo{
+    height: 100vh;
+    width: 1em;
+    }
+    .active {
+        background: white;
+        width: 90%;
+        height: 47px;
+        position: absolute;
+        left: 0;
+        top: 0; 
+        z-index: -1;
+        border-radius: 6px;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+        display: none;
+        pointer-events: none;
+        border-bottom: 2px solid transparent;
+        transition: 0.3s;
+    }
+    
+    .navlinks li:hover a {
+        color: #000000;
+        
+    }
+    .navlinks li:hover a img{
+    filter: brightness(0) invert(1);
+    }
+    
+    .navlinks li:hover ~ .active { 
+        display: flex;
+        pointer-events: auto;
+      }
+    .navlinks li:nth-child(1):hover ~ .active {
+        top: 2.6px;
+    }
+    
+    .navlinks li:nth-child(2):hover ~ .active {
+        top: 90px;
+    
+    }
+    
+    .navlinks li:nth-child(3):hover ~ .active {
+        top: 9.5rem;
+    }
+    
+    .navlinks li:nth-child(4):hover ~ .active {
+        top: 14rem;
+    }
+    
+    .navlinks li:nth-child(5):hover ~ .active {
+        top: 19rem;
+    }
+    
+    .navlinks li:nth-child(6):hover ~ .active {
+        top: 23.5rem;
+    }
+    .logomobile{
+    border-radius: 50px;
+    width: 45px;
+    display: none;
+    }
+    .button-64 {
+      align-items: center;
+      background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+      border: 0;
+      border-radius: 8px;
+      box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      display: flex;
+      font-family: Phantomsans, sans-serif;
+      font-size: 20px;
+      justify-content: center;
+      line-height: 1em;
+      max-width: 100%;
+      min-width: 140px;
+      padding: 3px;
+      text-decoration: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      white-space: nowrap;
+      cursor: pointer;
+    }
+    
+    .button-64:active,
+    .button-64:hover {
+      outline: 0;
+    }
+    
+    .button-64 span {
+      background-color: rgb(5, 6, 45);
+      padding: 16px 24px;
+      border-radius: 6px;
+      width: 100%;
+      height: 100%;
+      transition: 300ms;
+    }
+    
+    .button-64:hover span {
+      background: none;
+    }
+    
+    @media (min-width: 768px) {
+      .button-64 {
+        font-size: 24px;
+        min-width: 196px;
+      }
+    }
+    .container{
+      background-color: rgba(190, 190, 190, 0.809);
+      border-radius: 15px;
+    }
+    .container a{
+      text-decoration: none;
+      color:#000000;
+
+    }
+    .container a:hover{
+      color:#5B42F3;
+    }
